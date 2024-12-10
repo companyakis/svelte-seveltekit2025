@@ -1,2 +1,2 @@
-# svelte-seveltekit2025
-Svelte and Sveltekit
+# Svelte and Sveltekit
+
